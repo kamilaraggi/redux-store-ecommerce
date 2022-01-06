@@ -17,3 +17,4 @@ THEN I find that the app uses Redux instead of the Context API
 https://enigmatic-beach-53993.herokuapp.com/
 
 
+![22-state-homework-demo-02](https://user-images.githubusercontent.com/84299745/148333103-f1b4f775-b39a-4105-9992-5ea58774e047.gif)
